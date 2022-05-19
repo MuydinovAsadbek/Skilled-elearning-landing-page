@@ -1,0 +1,43 @@
+/* GLOBAL STYLES */
+:root {
+  --text-color: #fff;
+  --primary-color: #242A45;
+  --button-color: #5267DF;
+  --hover-color:#8B6BB3;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+*:focus {
+  outline: 3px dashed ;
+  outline: 3px;
+}
+
+html {
+  height: 100%;
+  scroll-behavior: inherit;
+}
+
+img {
+  height: auto;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+/* CONTAINER */
+.container {
+  width: 100%;
+  max-width: 1150px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
