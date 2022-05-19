@@ -178,7 +178,6 @@ body {
 /* MAIN-CONTENT */
 .main-content {
   flex-grow: 1;
-  padding-top: 110px;
   padding-bottom: 140px;
   background-image: linear-gradient(180deg, #ffffff 0%, #f0f1ff 100%);
 }
