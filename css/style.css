@@ -63,9 +63,7 @@ body {
   background-image: url("../img/hero-bg.svg");
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: calc(50% + 560px) -50px;
-  /* background-position: calc(925px - 30px) calc(50% - 50px); */
-
+  background-position: calc(50% + 550px) -50px;
 }
 
 
@@ -118,8 +116,8 @@ body {
 
 /* SITE-HERO */
 .site-hero {
-  position: relative;
   padding-top: 147px;
+  padding-bottom: 116px;
 }
 
 .site-hero__container {
