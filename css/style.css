@@ -139,8 +139,6 @@ body {
   border-radius: 15px;
 }
 
-
-
 .site-hero__box:last-child {
   position: absolute;
   bottom: 202px;
@@ -264,6 +262,7 @@ body {
 
 .section-feature__heading {
   display: inline-block;
+  margin: 0;
   font-size: 32px;
   line-height: 40px;
   color: var(--color-white);
